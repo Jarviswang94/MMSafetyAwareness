@@ -1,5 +1,5 @@
 <h1 align="center">Multimodal Safety Awareness Benchmark for MLLMs</h1>
-Can't See the Forest for the Trees}: Benchmarking  Multimodal Safety Awareness for Multimodal LLMs
+Can't See the Forest for the Trees: Benchmarking  Multimodal Safety Awareness for Multimodal LLMs
 <br>   <br>
 
 <div align="center">
