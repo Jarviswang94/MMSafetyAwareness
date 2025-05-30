@@ -1,1 +1,0 @@
-# multimodal_safety_benchmark
