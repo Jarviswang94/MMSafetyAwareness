@@ -22,7 +22,7 @@ We introduce MMSafeAware, the first comprehensive multimodal safety awareness be
 ## 📃Results
 
 <div align="center">
-  <img src="paper/result.jpg" alt="Logo" width="500">
+  <img src="paper/result.png" alt="Logo" width="500">
 </div>
 
 
