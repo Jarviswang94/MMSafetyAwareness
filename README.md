@@ -12,7 +12,11 @@ Data and Code for Can't See the Forest for the Trees: Benchmarking  Multimodal S
 
 ## 💡Dataset
 <div align="center">
-  <img src="paper/data1.pdf" alt="Logo" width="500">
+  <img src="paper/data1.jpg" alt="Logo" width="500">
+</div>
+
+<div align="center">
+  <img src="paper/data2.jpg" alt="Logo" width="500">
 </div>
 
 
